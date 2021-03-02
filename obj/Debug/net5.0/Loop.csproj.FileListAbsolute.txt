@@ -1,0 +1,16 @@
+E:\VSC\Loop\bin\Debug\net5.0\Loop.exe
+E:\VSC\Loop\bin\Debug\net5.0\Loop.deps.json
+E:\VSC\Loop\bin\Debug\net5.0\Loop.runtimeconfig.json
+E:\VSC\Loop\bin\Debug\net5.0\Loop.runtimeconfig.dev.json
+E:\VSC\Loop\bin\Debug\net5.0\Loop.dll
+E:\VSC\Loop\bin\Debug\net5.0\ref\Loop.dll
+E:\VSC\Loop\bin\Debug\net5.0\Loop.pdb
+E:\VSC\Loop\obj\Debug\net5.0\Loop.csprojAssemblyReference.cache
+E:\VSC\Loop\obj\Debug\net5.0\Loop.GeneratedMSBuildEditorConfig.editorconfig
+E:\VSC\Loop\obj\Debug\net5.0\Loop.AssemblyInfoInputs.cache
+E:\VSC\Loop\obj\Debug\net5.0\Loop.AssemblyInfo.cs
+E:\VSC\Loop\obj\Debug\net5.0\Loop.csproj.CoreCompileInputs.cache
+E:\VSC\Loop\obj\Debug\net5.0\Loop.dll
+E:\VSC\Loop\obj\Debug\net5.0\ref\Loop.dll
+E:\VSC\Loop\obj\Debug\net5.0\Loop.pdb
+E:\VSC\Loop\obj\Debug\net5.0\Loop.genruntimeconfig.cache
